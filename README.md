@@ -17,7 +17,7 @@ pkg install git -y
 git clone https://github.com/Mr-XsZ1/epasml
 cd epasml
 git pull
-python fb.py
+python eps.py
 ```
 
 <h1><a href ="https://www.youtube.com/channel/UCCfbokcjUPrLyU014tuc4SA">YouTube Tutorial</a></h1>
